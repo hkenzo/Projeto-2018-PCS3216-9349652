@@ -1,0 +1,10 @@
+	@	500
+LOOP	LD	UM
+	-	DOIS
+	JZ	FIM
+	J	LOOP
+UM	LD	2
+FIM	OS	2
+UM	K	1
+DOIS	K	2
+	# 	500

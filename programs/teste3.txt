@@ -1,0 +1,9 @@
+	@	500
+	LD	UM
+	-	DOIS
+	JZ	FIM
+	J	FIM
+FIM	OS	2
+UM	K	1
+DOIS	K	2
+	# 	500

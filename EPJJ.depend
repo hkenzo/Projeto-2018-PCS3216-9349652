@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1526671580 source:c:\users\koga\desktop\ep\epjj\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<windows.h>
+	<fstream>
+
+1530037522 source:c:\users\kenzo k\documents\ep\epjj\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<windows.h>
+	<fstream>
+	"Montador.h"
+
+1530043710 source:c:\users\kenzo k\documents\ep\epjj\src\montador.cpp
+	"Montador.h"
+
+1529846315 c:\users\kenzo k\documents\ep\epjj\include\montador.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iomanip>
+	<algorithm>
+	"MV.h"
+
+1530049889 source:c:\users\kenzo k\documents\ep\epjj\src\mv.cpp
+	"MV.h"
+
+1530048160 c:\users\kenzo k\documents\ep\epjj\include\mv.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iomanip>
+
